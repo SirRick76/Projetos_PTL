@@ -1,0 +1,18 @@
+[
+    {
+        "nome": "Ana",
+        "departamento": "Informática",
+        "salario": 1450
+    },
+    {
+        "nome": "Pedro",
+        "departamento": "Comercial",
+        "salario": 1300
+    },
+    {
+        "nome": "Maria",
+        "departamento": "Informática",
+        "salario": 1600
+    }
+]
+

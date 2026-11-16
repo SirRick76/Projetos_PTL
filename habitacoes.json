@@ -1,0 +1,45 @@
+
+[
+    {
+        "id": 1,
+        "localizacao": {
+            "cidade": "Los Angeles",
+            "estado": "California"
+        },
+        "habitacao": {
+            "rendimento_medio": 8.32,
+            "idade_media": 25,
+            "divisoes": 1500,
+            "quartos": 300
+        },
+        "valor_medio": 452600
+    },
+    {
+        "id": 2,
+        "localizacao": {
+            "cidade": "San Francisco",
+            "estado": "California"
+        },
+        "habitacao": {
+            "rendimento_medio": 6.15,
+            "idade_media": 18,
+            "divisoes": 1200,
+            "quartos": 250
+        },
+        "valor_medio": 389500
+    },
+    {
+        "id": 3,
+        "localizacao": {
+            "cidade": "San Diego",
+            "estado": "California"
+        },
+        "habitacao": {
+            "rendimento_medio": 5.40,
+            "idade_media": 30,
+            "divisoes": 900,
+            "quartos": 180
+        },
+        "valor_medio": 315000
+    }
+]
