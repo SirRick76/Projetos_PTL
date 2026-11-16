@@ -1,4 +1,5 @@
 import numpy as np
+import cProfile
 
 valores=np.array([10,20,30,40])
 print(valores)
@@ -125,4 +126,17 @@ temperaturas = np.array([
 correcao= np.array([1,2,0.5])
 temperaturas_corrigidas = temperaturas + correcao
 print(temperaturas_corrigidas)
+
+lista=list(range(1000000))
+array1M=np.arange(1000000)
+def operar_lista():
+    resultado = [x+1 for x in lista]
+
+def operar_array():
+    resultado=array1M+1
+
+print("ANÁLISE DA LISTA")
+cProfile.run('operar_lista()')
+print("ANÁLISE DO ARRAY NUMPY")
+cProfile.run('operar_array()')
 
