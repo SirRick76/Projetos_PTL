@@ -1,0 +1,201 @@
+ID_Venda,Data_Venda,Produto,Categoria,Quantidade,Preco_Unitario,Cliente,Cidade,Vendedor,Observacoes
+1096,14/02/2025,Rato Sem Fios,,1,24.9,André Lopes,,Paulo Tavares,Entrega rápida
+1016,19/05/2025,Teclado Mecânico,Acessórios,8,79.99,Diogo Sousa,Viseu,Paulo Tavares,Envio expresso
+1031,10/03/2025,Teclado Mecânico,Acessórios,1,79.99,Gonçalo Ribeiro,setúbal,Helena Rocha,Envio expresso
+1159,25/03/2025,Cabo HDMI 2m,Acessórios,5,12.5,Joana Teixeira,Setúbal,Carlos Mendes,Fatura com NIF
+1129,05/02/2025,Portátil Pro 15,Informática,3,1150.0,Patrícia Vieira,Setúbal,Carlos Mendes,Embalagem oferta
+1116,18/01/2025,Webcam Full HD,Acessórios,5,45.0,,,Paulo Tavares,Embalagem oferta
+1070,11/02/2025,Secretária Elevatória,Mobiliário,7,390.0,Patrícia Vieira,SETÚBAL,Rita Neves,
+1171,17/02/2025,Cabo HDMI 2m,Acessórios,5,12.5,,Lisboa,Rita Neves,
+1175,27/05/2025,Portátil Pro 15,Informática,4,1150.0,João Santos,Setubal,Paulo Tavares,Cliente habitual
+1046,30/04/2025,Cabo HDMI 2m,Acessórios,1,12.5,Carolina Marques, Porto ,Rita Neves,Pagamento por MBWay
+1067,23/04/2025,Rato Sem Fios,Acessórios,7,24.9,Inês Fernandes,Setúbal,Paulo Tavares,
+1183,01/01/2025,,Acessórios,7,35.5,Nuno Carvalho,coimbra,Helena Rocha,Cliente habitual
+1166,30/03/2025,Hub USB-C 7-em-1,Acessórios,5,35.5,Daniela Nunes,Setúbal,Helena Rocha,Desconto aplicado
+1079,01/05/2025,Hub USB-C 7-em-1,Acessórios,7,35.5,Sara Correia,Aveiro,Rita Neves,Fatura com NIF
+1187,10/06/2025,Smartphone X12,Telemóveis,6,699.0,Sara Correia,Aveiro,Paulo Tavares,Envio expresso
+1178,25/05/2025,Rato Sem Fios,Acessórios,4,24.9,Joana Teixeira,BRAGA,Helena Rocha,
+1057,05/01/2025,Rato Sem Fios,Acessórios,4,24.9,Miguel Gonçalves,Aveiro,Rita Neves,
+1153,01/02/2025,Cadeira Ergonómica,Mobiliário,1,210.0,Miguel Gonçalves,Viseu,Sérgio Monteiro,Fatura com NIF
+1083,01/03/2025,Webcam Full HD,Acessórios,1,45.0,Catarina Almeida,braga,Paulo Tavares,Envio expresso
+1069,13/05/2025,Smartphone X12,Telemóveis,7,699.0,Sara Correia,Lisboa,Paulo Tavares,Cliente habitual
+1125,05/04/2025,Smartphone X12,Telemóveis,8,699.0,Patrícia Vieira,Viseu,Helena Rocha,Desconto aplicado
+1017,16/04/2025,Webcam Full HD,,2,45.0,João Santos,Aveiro,Helena Rocha,Desconto aplicado
+1149,14/06/2025,Teclado Mecânico,Acessórios,3,79.99,Ricardo Mendes,Aveiro,Carlos Mendes,Cliente habitual
+1094,19/06/2025,Monitor 27'' 4K,Informática,1,349.5,João Santos,Coimbra,Helena Rocha,Cliente habitual
+1066,30/01/2025,Disco Externo SSD 1TB,Armazenamento,5,95.0,Sofia Pereira,Braga,Sérgio Monteiro,Embalagem oferta
+1061,23/04/2025,Secretária Elevatória,,8,390.0,Pedro Costa,Viseu,Carlos Mendes,Pagamento por MBWay
+1085,18/06/2025,Auscultadores Noise Cancelling,Áudio,1,159.0,Bruno Moreira,Faro,Paulo Tavares,Desconto aplicado
+1068,06/03/2025,Portátil Pro 15,Informática,1,1150.0,Patrícia Vieira,Faro,Helena Rocha,Sem observações
+1126,04/06/2025,Teclado Mecânico,,8,79.99,André Lopes,Lisboa,Carlos Mendes,Embalagem oferta
+1133,06/01/2025,Auscultadores Noise Cancelling,,7,159.0,André Lopes,Porto,Carlos Mendes,
+1010,03/01/2025,Smartphone X12,Telemóveis,5,699.0,Patrícia Vieira,Lisboa,Paulo Tavares,
+1019,24/01/2025,Cabo HDMI 2m,Acessórios,7,12.5,Gonçalo Ribeiro,Viseu,Carlos Mendes,Envio expresso
+1056,03/01/2025,Disco Externo SSD 1TB,Armazenamento,7,95.0,Gonçalo Ribeiro,Coimbra,Rita Neves,Sem observações
+1076,25/04/2025,Disco Externo SSD 1TB,Armazenamento,7,95.0,Catarina Almeida,Coimbra,Rita Neves,Desconto aplicado
+1151,04/05/2025,Monitor 27'' 4K,Informática,5,349.5,Catarina Almeida, Porto ,Helena Rocha,Fatura com NIF
+1105,09/06/2025,Impressora Multifunções,Periféricos,5,129.9,Ana Silva,Faro,Helena Rocha,Pagamento por MBWay
+1136,15/06/2025,Monitor 27'' 4K,Informática,1,349.5,Sara Correia,Lisboa,Rita Neves,Sem observações
+1138,04/06/2025,Coluna Bluetooth,Áudio,2,55.0,Maria Oliveira,FARO,Helena Rocha,Sem observações
+1165,30/06/2025,Monitor 27'' 4K,Informática,8,349.5,André Lopes,FARO,Rita Neves,Envio expresso
+1077,16/04/2025,Portátil Pro 15,Informática,7,1150.0,Carolina Marques,,Sérgio Monteiro,
+1080,10/06/2025,Tablet Air 10,Telemóveis,1,420.0,,Faro,Rita Neves,Cliente habitual
+1017,16/04/2025,Webcam Full HD,,2,45.0,João Santos,Aveiro,Helena Rocha,Desconto aplicado
+1039,02/05/2025,Impressora Multifunções,Periféricos,7,129.9,Sara Correia,Viseu,Carlos Mendes,Cliente habitual
+1025,14/03/2025,Teclado Mecânico,Acessórios,5,79.99,Bruno Moreira,Porto,Carlos Mendes,Pagamento por MBWay
+1123,20/01/2025,Cadeira Ergonómica,Mobiliário,1,210.0,Ricardo Mendes,Braga,Helena Rocha,
+1016,19/05/2025,Teclado Mecânico,Acessórios,8,79.99,Diogo Sousa,Viseu,Paulo Tavares,Envio expresso
+1030,08/06/2025,Tablet Air 10,Telemóveis,3,420.0,Tiago Rodrigues,PORTO,Rita Neves,Desconto aplicado
+1020,09/03/2025,Cabo HDMI 2m,Acessórios,7,12.5,Daniela Nunes,SETÚBAL,Carlos Mendes,
+1144,17/01/2025,Disco Externo SSD 1TB,Armazenamento,3,95.0,Daniela Nunes,Braga,Carlos Mendes,Desconto aplicado
+1087,24/01/2025,Cabo HDMI 2m,Acessórios,3,12.5,Beatriz Martins,Aveiro,Helena Rocha,Embalagem oferta
+1115,10/06/2025,Webcam Full HD,Acessórios,8,45.0,Ricardo Mendes,Aveiro,Helena Rocha,Sem observações
+1174,21/06/2025,Rato Sem Fios,Acessórios,6,24.9,,viseu,Paulo Tavares,
+1006,05/06/2025,Smartphone X12,Telemóveis,3,699.0,Catarina Almeida,Coimbra,Carlos Mendes,Desconto aplicado
+1127,22/01/2025,Hub USB-C 7-em-1,Acessórios,3,35.5,Rui Alves,Coimbra,Carlos Mendes,Envio expresso
+1118,08/02/2025,Portátil Pro 15,Informática,6,1150.0,Daniela Nunes,BRAGA,Rita Neves,
+1074,17/04/2025,Coluna Bluetooth,Áudio,8,55.0,Nuno Carvalho,Coimbra,Helena Rocha,Cliente habitual
+1141,09/04/2025,,Periféricos,8,129.9,André Lopes,Lisboa,Rita Neves,Fatura com NIF
+1099,06/05/2025,Tablet Air 10,Telemóveis,2,420.0,Mariana Gomes,LISBOA,Sérgio Monteiro,Fatura com NIF
+1173,04/01/2025,Tablet Air 10,Telemóveis,4,420.0,Tiago Rodrigues,Viseu,Carlos Mendes,Envio expresso
+1097,02/02/2025,Tablet Air 10,Telemóveis,2,420.0,Gonçalo Ribeiro,Aveiro,Sérgio Monteiro,Desconto aplicado
+1170,01/03/2025,Disco Externo SSD 1TB,Armazenamento,1,95.0,Tiago Rodrigues,,Rita Neves,Sem observações
+1098,07/06/2025,Portátil Pro 15,Informática,5,1150.0,Catarina Almeida, Porto ,Rita Neves,Cliente habitual
+1032,26/03/2025,Cadeira Ergonómica,Mobiliário,5,210.0,André Lopes,Viseu,Paulo Tavares,Entrega rápida
+1013,18/01/2025,Hub USB-C 7-em-1,Acessórios,8,35.5,Nuno Carvalho,Viseu,Helena Rocha,Embalagem oferta
+1036,18/04/2025,Smartphone X12,Telemóveis,3,699.0,Bruno Moreira,,Paulo Tavares,Desconto aplicado
+1120,26/03/2025,Rato Sem Fios,Acessórios,5,24.9,Fábio Soares,BRAGA,Paulo Tavares,Embalagem oferta
+1043,05/02/2025,Teclado Mecânico,Acessórios,4,79.99,Maria Oliveira,Aveiro,Helena Rocha,Envio expresso
+1190,18/02/2025,Portátil Pro 15,Informática,1,1150.0,Maria Oliveira,Coimbra,Paulo Tavares,Embalagem oferta
+1091,30/01/2025,,,8,79.99,Pedro Costa,braga,Sérgio Monteiro,Envio expresso
+1137,09/04/2025,Secretária Elevatória,Mobiliário,8,390.0,André Lopes,Faro,Carlos Mendes,Envio expresso
+1052,11/01/2025,Secretária Elevatória,Mobiliário,2,390.0,Filipa Pinto,Porto,Carlos Mendes,Envio expresso
+1128,14/01/2025,Auscultadores Noise Cancelling,Áudio,2,159.0,André Lopes,Aveiro,Paulo Tavares,Pagamento por MBWay
+1163,13/05/2025,Monitor 27'' 4K,Informática,8,349.5,Filipa Pinto,Braga,Sérgio Monteiro,Fatura com NIF
+1042,13/06/2025,Cadeira Ergonómica,Mobiliário,4,210.0,Inês Fernandes,faro,Sérgio Monteiro,Cliente habitual
+1119,14/05/2025,Impressora Multifunções,Periféricos,5,129.9,Carolina Marques,,Paulo Tavares,Cliente habitual
+1114,31/03/2025,Secretária Elevatória,Mobiliário,3,390.0,Diogo Sousa,FARO,Carlos Mendes,Pagamento por MBWay
+1027,06/05/2025,Cadeira Ergonómica,Mobiliário,2,210.0,Sara Correia,faro,Paulo Tavares,Pagamento por MBWay
+1140,21/06/2025,Smartphone X12,Telemóveis,3,699.0,Ana Silva,Setúbal,Paulo Tavares,Fatura com NIF
+1101,21/04/2025,Webcam Full HD,Acessórios,8,45.0,Carolina Marques,lisboa,Paulo Tavares,Pagamento por MBWay
+1112,30/01/2025,,Áudio,8,159.0,Daniela Nunes,Lisboa,Sérgio Monteiro,Envio expresso
+1003,29/03/2025,Cadeira Ergonómica,Mobiliário,6,210.0,Pedro Costa,lisboa,Carlos Mendes,Sem observações
+1078,26/03/2025,Coluna Bluetooth,Áudio,2,55.0,Filipa Pinto,Porto,Helena Rocha,Cliente habitual
+1047,13/01/2025,Cadeira Ergonómica,Mobiliário,6,210.0,Mariana Gomes,viseu,Carlos Mendes,Sem observações
+1188,17/02/2025,Hub USB-C 7-em-1,Acessórios,4,35.5,Miguel Gonçalves,Braga,Sérgio Monteiro,Envio expresso
+1181,01/05/2025,Portátil Pro 15,Informática,3,1150.0,Patrícia Vieira,viseu,Rita Neves,Envio expresso
+1086,12/06/2025,Monitor 27'' 4K,Informática,3,349.5,Sara Correia,,Paulo Tavares,Pagamento por MBWay
+1162,22/03/2025,Auscultadores Noise Cancelling,Áudio,7,159.0,Filipa Pinto,Setúbal,Carlos Mendes,Pagamento por MBWay
+1037,21/04/2025,Hub USB-C 7-em-1,Acessórios,8,35.5,Catarina Almeida,Coimbra,Helena Rocha,Cliente habitual
+1176,13/06/2025,Cabo HDMI 2m,Acessórios,4,12.5,Diogo Sousa,SETÚBAL,Sérgio Monteiro,Sem observações
+1062,08/02/2025,Hub USB-C 7-em-1,Acessórios,4,35.5,Pedro Costa,Viseu,Helena Rocha,
+1023,14/05/2025,Secretária Elevatória,Mobiliário,6,390.0,Diogo Sousa,Braga,Paulo Tavares,Cliente habitual
+1142,16/06/2025,Cadeira Ergonómica,Mobiliário,3,210.0,Gonçalo Ribeiro,lisboa,Helena Rocha,
+1102,25/06/2025,Cabo HDMI 2m,Acessórios,2,12.5,Maria Oliveira,Aveiro,Sérgio Monteiro,
+1034,09/04/2025,Cabo HDMI 2m,Acessórios,7,12.5,Ana Silva,Coimbra,Paulo Tavares,
+1012,03/06/2025,Secretária Elevatória,Mobiliário,6,390.0,Miguel Gonçalves,Coimbra,Carlos Mendes,Sem observações
+1102,25/06/2025,Cabo HDMI 2m,Acessórios,2,12.5,Maria Oliveira,Aveiro,Sérgio Monteiro,
+1160,26/03/2025,Smartphone X12,Telemóveis,5,699.0,Fábio Soares,Porto,Sérgio Monteiro,
+1007,09/01/2025,Hub USB-C 7-em-1,Acessórios,4,35.5,Joana Teixeira,aveiro,Rita Neves,Pagamento por MBWay
+1028,24/04/2025,Disco Externo SSD 1TB,Armazenamento,2,95.0,Maria Oliveira,Braga,Sérgio Monteiro,
+1121,17/06/2025,Tablet Air 10,Telemóveis,2,420.0,Miguel Gonçalves,Aveiro,Sérgio Monteiro,Cliente habitual
+1005,16/03/2025,Rato Sem Fios,Acessórios,7,24.9,Inês Fernandes,aveiro,Paulo Tavares,Cliente habitual
+1033,30/01/2025,Cabo HDMI 2m,Acessórios,5,12.5,João Santos,viseu,Sérgio Monteiro,Cliente habitual
+1143,15/03/2025,Tablet Air 10,Telemóveis,2,420.0,Sofia Pereira,Setubal,Paulo Tavares,Fatura com NIF
+1146,03/05/2025,Disco Externo SSD 1TB,Armazenamento,2,95.0,Sofia Pereira,LISBOA,Helena Rocha,
+1110,31/01/2025,Portátil Pro 15,Informática,3,1150.0,Carolina Marques,Coimbra,Paulo Tavares,Cliente habitual
+1145,05/02/2025,Monitor 27'' 4K,,6,349.5,Catarina Almeida,Braga,Paulo Tavares,Envio expresso
+1011,15/02/2025,Disco Externo SSD 1TB,Armazenamento,5,95.0,Sara Correia,Coimbra,Sérgio Monteiro,Entrega rápida
+1063,08/04/2025,Webcam Full HD,Acessórios,7,45.0,Miguel Gonçalves,Porto,Helena Rocha,Desconto aplicado
+1113,15/05/2025,Rato Sem Fios,Acessórios,6,24.9,Diogo Sousa,BRAGA,Sérgio Monteiro,Desconto aplicado
+1147,13/06/2025,Impressora Multifunções,Periféricos,7,129.9,Filipa Pinto,Porto,Paulo Tavares,Pagamento por MBWay
+1167,18/05/2025,Cadeira Ergonómica,Mobiliário,3,210.0,Pedro Costa,COIMBRA,Helena Rocha,Desconto aplicado
+1001,13/06/2025,,Acessórios,4,24.9,Sofia Pereira,,Carlos Mendes,Desconto aplicado
+1142,16/06/2025,Cadeira Ergonómica,Mobiliário,3,210.0,Gonçalo Ribeiro,lisboa,Helena Rocha,
+1154,18/02/2025,Hub USB-C 7-em-1,Acessórios,8,35.5,Gonçalo Ribeiro,Setubal,Helena Rocha,Desconto aplicado
+1071,01/01/2025,Smartphone X12,Telemóveis,1,699.0,Beatriz Martins,Setúbal,Helena Rocha,Embalagem oferta
+1124,12/02/2025,Tablet Air 10,Telemóveis,4,420.0,Catarina Almeida,setúbal,Rita Neves,Desconto aplicado
+1065,15/03/2025,Tablet Air 10,Telemóveis,2,420.0,Ricardo Mendes,Faro,Helena Rocha,Envio expresso
+1045,18/05/2025,Tablet Air 10,Telemóveis,4,420.0,Gonçalo Ribeiro,Viseu,Rita Neves,Pagamento por MBWay
+1164,23/06/2025,Hub USB-C 7-em-1,Acessórios,5,35.5,Bruno Moreira,coimbra,Paulo Tavares,Embalagem oferta
+1029,07/02/2025,Auscultadores Noise Cancelling,Áudio,1,159.0,André Lopes,Coimbra,Sérgio Monteiro,Envio expresso
+1041,02/06/2025,Secretária Elevatória,Mobiliário,7,390.0,Nuno Carvalho,Braga,Paulo Tavares,Desconto aplicado
+1109,12/01/2025,Monitor 27'' 4K,Informática,1,349.5,Beatriz Martins,Coimbra,Paulo Tavares,Fatura com NIF
+1156,12/01/2025,,Áudio,6,159.0,Nuno Carvalho,Viseu,Paulo Tavares,
+1157,24/06/2025,Impressora Multifunções,Periféricos,7,129.9,André Lopes,Aveiro,Helena Rocha,Desconto aplicado
+1026,09/03/2025,Rato Sem Fios,Acessórios,3,24.9,Inês Fernandes,Coimbra,Paulo Tavares,
+1024,03/01/2025,Webcam Full HD,Acessórios,2,45.0,Maria Oliveira,faro,Helena Rocha,Fatura com NIF
+1185,12/01/2025,Auscultadores Noise Cancelling,Áudio,1,159.0,Sofia Pereira,FARO,Sérgio Monteiro,
+1148,11/02/2025,Secretária Elevatória,Mobiliário,5,390.0,Maria Oliveira,faro,Carlos Mendes,
+1082,16/04/2025,Impressora Multifunções,Periféricos,3,129.9,Maria Oliveira,Viseu,Sérgio Monteiro,Pagamento por MBWay
+1040,19/04/2025,Monitor 27'' 4K,Informática,8,349.5,João Santos,Lisboa,Sérgio Monteiro,
+1169,17/06/2025,Cabo HDMI 2m,Acessórios,4,12.5,Patrícia Vieira,Aveiro,Carlos Mendes,
+1048,05/01/2025,Tablet Air 10,Telemóveis,6,420.0,Diogo Sousa,Porto,Helena Rocha,Entrega rápida
+1095,22/05/2025,Monitor 27'' 4K,Informática,4,349.5,Mariana Gomes,porto,Sérgio Monteiro,Embalagem oferta
+1155,30/05/2025,,Mobiliário,8,390.0,Miguel Gonçalves,lisboa,Rita Neves,Fatura com NIF
+1044,10/04/2025,Cabo HDMI 2m,Acessórios,1,12.5,Patrícia Vieira,SETÚBAL,Rita Neves,Envio expresso
+1139,31/03/2025,,Acessórios,6,45.0,Bruno Moreira,Faro,Carlos Mendes,Cliente habitual
+1004,18/05/2025,Rato Sem Fios,Acessórios,5,24.9,Sara Correia,Aveiro,Carlos Mendes,Desconto aplicado
+1106,25/05/2025,Smartphone X12,Telemóveis,1,699.0,Maria Oliveira,coimbra,Paulo Tavares,Embalagem oferta
+1054,22/04/2025,Coluna Bluetooth,Áudio,4,55.0,Maria Oliveira,Setubal,Rita Neves,Fatura com NIF
+1134,27/03/2025,,Acessórios,3,79.99,Patrícia Vieira,Setúbal,Carlos Mendes,Sem observações
+1181,01/05/2025,Portátil Pro 15,Informática,3,1150.0,Patrícia Vieira,viseu,Rita Neves,Envio expresso
+1179,06/05/2025,Rato Sem Fios,Acessórios,1,24.9,Catarina Almeida,,Rita Neves,Embalagem oferta
+1186,22/06/2025,Coluna Bluetooth,Áudio,3,55.0,Ricardo Mendes,Viseu,Sérgio Monteiro,Pagamento por MBWay
+1050,05/06/2025,Tablet Air 10,Telemóveis,3,420.0,Miguel Gonçalves,Porto,Rita Neves,Envio expresso
+1081,12/06/2025,Tablet Air 10,Telemóveis,5,420.0,,PORTO,Helena Rocha,
+1035,22/03/2025,Smartphone X12,Telemóveis,5,699.0,Filipa Pinto,VISEU,Helena Rocha,Desconto aplicado
+1008,09/03/2025,Teclado Mecânico,Acessórios,5,79.99,Fábio Soares,Viseu,Carlos Mendes,Entrega rápida
+1111,12/04/2025,Coluna Bluetooth,Áudio,8,55.0,Maria Oliveira,Viseu,Rita Neves,Embalagem oferta
+1092,31/05/2025,Tablet Air 10,Telemóveis,2,420.0,Gonçalo Ribeiro,faro,Rita Neves,Desconto aplicado
+1084,26/06/2025,Cadeira Ergonómica,Mobiliário,7,210.0,Gonçalo Ribeiro,Viseu,Paulo Tavares,Entrega rápida
+1177,18/05/2025,Hub USB-C 7-em-1,Acessórios,4,35.5,Ricardo Mendes,Lisboa,Paulo Tavares,Cliente habitual
+1182,21/01/2025,Smartphone X12,Telemóveis,3,699.0,Sara Correia,LISBOA,Helena Rocha,Desconto aplicado
+1090,22/06/2025,Monitor 27'' 4K,Informática,6,349.5,Bruno Moreira,Lisboa,Paulo Tavares,Envio expresso
+1009,29/01/2025,Teclado Mecânico,Acessórios,7,79.99,,Viseu,Paulo Tavares,
+1014,13/04/2025,Smartphone X12,Telemóveis,8,699.0,Pedro Costa,LISBOA,Sérgio Monteiro,Desconto aplicado
+1060,12/03/2025,Portátil Pro 15,Informática,3,1150.0,Sara Correia,Setúbal,Rita Neves,Sem observações
+1172,15/05/2025,Webcam Full HD,Acessórios,8,45.0,Inês Fernandes,LISBOA,Paulo Tavares,Pagamento por MBWay
+1132,01/04/2025,Monitor 27'' 4K,Informática,2,349.5,Filipa Pinto,Lisboa,Sérgio Monteiro,
+1018,18/05/2025,Webcam Full HD,Acessórios,8,45.0,Diogo Sousa,LISBOA,Sérgio Monteiro,Entrega rápida
+1073,15/04/2025,Rato Sem Fios,Acessórios,2,24.9,Catarina Almeida,Braga,Sérgio Monteiro,Embalagem oferta
+1176,13/06/2025,Cabo HDMI 2m,Acessórios,4,12.5,Diogo Sousa,SETÚBAL,Sérgio Monteiro,Sem observações
+1135,10/01/2025,Cadeira Ergonómica,Mobiliário,1,210.0,Mariana Gomes,Viseu,Paulo Tavares,Entrega rápida
+1168,14/01/2025,Rato Sem Fios,Acessórios,2,24.9,Ricardo Mendes,Porto,Helena Rocha,Envio expresso
+1184,09/01/2025,Hub USB-C 7-em-1,Acessórios,1,35.5,Diogo Sousa,Lisboa,Carlos Mendes,Desconto aplicado
+1064,09/03/2025,Smartphone X12,Telemóveis,2,699.0,,Setúbal,Carlos Mendes,Desconto aplicado
+1055,08/01/2025,Webcam Full HD,Acessórios,4,45.0,André Lopes,AVEIRO,Paulo Tavares,
+1108,05/06/2025,Webcam Full HD,Acessórios,2,45.0,André Lopes,Faro,Sérgio Monteiro,Embalagem oferta
+1051,20/02/2025,Rato Sem Fios,Acessórios,4,24.9,Pedro Costa,Faro,Carlos Mendes,
+1010,03/01/2025,Smartphone X12,Telemóveis,5,699.0,Patrícia Vieira,Lisboa,Paulo Tavares,
+1059,25/02/2025,Tablet Air 10,Telemóveis,5,420.0,Pedro Costa,Faro,Sérgio Monteiro,Pagamento por MBWay
+1049,09/06/2025,Teclado Mecânico,Acessórios,2,79.99,Joana Teixeira,Setúbal,Helena Rocha,
+1089,04/04/2025,Rato Sem Fios,,2,24.9,Catarina Almeida,Faro,Paulo Tavares,Cliente habitual
+1022,02/06/2025,Rato Sem Fios,Acessórios,2,24.9,Joana Teixeira,Porto,Sérgio Monteiro,
+1058,26/03/2025,Secretária Elevatória,Mobiliário,5,390.0,Diogo Sousa,COIMBRA,Helena Rocha,Desconto aplicado
+1161,28/02/2025,,Telemóveis,7,420.0,Sofia Pereira,COIMBRA,Carlos Mendes,Sem observações
+1112,30/01/2025,,Áudio,8,159.0,Daniela Nunes,Lisboa,Sérgio Monteiro,Envio expresso
+1130,25/02/2025,Coluna Bluetooth,Áudio,7,55.0,Pedro Costa,Coimbra,Sérgio Monteiro,Sem observações
+1038,14/03/2025,Disco Externo SSD 1TB,Armazenamento,2,95.0,Patrícia Vieira,Faro,Carlos Mendes,Desconto aplicado
+1158,04/06/2025,Disco Externo SSD 1TB,,1,95.0,Sofia Pereira,Setúbal,Sérgio Monteiro,Pagamento por MBWay
+1066,30/01/2025,Disco Externo SSD 1TB,Armazenamento,5,95.0,Sofia Pereira,Braga,Sérgio Monteiro,Embalagem oferta
+1002,01/03/2025,Disco Externo SSD 1TB,Armazenamento,7,95.0,Diogo Sousa,,Helena Rocha,Envio expresso
+1053,03/04/2025,Smartphone X12,Telemóveis,3,699.0,Rui Alves,Faro,Rita Neves,Sem observações
+1150,12/01/2025,Smartphone X12,Telemóveis,4,699.0,Patrícia Vieira,Porto,Paulo Tavares,Embalagem oferta
+1131,17/01/2025,Rato Sem Fios,Acessórios,1,24.9,Sara Correia,Coimbra,Carlos Mendes,
+1152,05/06/2025,Teclado Mecânico,Acessórios,6,79.99,Carolina Marques,Aveiro,Helena Rocha,Sem observações
+1104,24/02/2025,Teclado Mecânico,Acessórios,2,79.99,André Lopes,aveiro,Rita Neves,
+1100,08/04/2025,Impressora Multifunções,Periféricos,7,129.9,Pedro Costa,Lisboa,Sérgio Monteiro,Desconto aplicado
+1117,20/01/2025,Smartphone X12,Telemóveis,7,699.0,Catarina Almeida,porto,Rita Neves,
+1088,04/05/2025,Hub USB-C 7-em-1,Acessórios,2,35.5,Catarina Almeida,Braga,Rita Neves,
+1075,12/03/2025,Hub USB-C 7-em-1,Acessórios,5,35.5,Ana Silva,Faro,Rita Neves,Pagamento por MBWay
+1122,15/06/2025,Smartphone X12,Telemóveis,6,699.0,Miguel Gonçalves,coimbra,Helena Rocha,Pagamento por MBWay
+1125,05/04/2025,Smartphone X12,Telemóveis,8,699.0,Patrícia Vieira,Viseu,Helena Rocha,Desconto aplicado
+1021,19/05/2025,Portátil Pro 15,,8,1150.0,Filipa Pinto,BRAGA,Helena Rocha,Cliente habitual
+1189,17/04/2025,Disco Externo SSD 1TB,Armazenamento,5,95.0,Beatriz Martins,Lisboa,Carlos Mendes,
+1072,21/05/2025,Teclado Mecânico,Acessórios,8,79.99,,Coimbra,Carlos Mendes,
+1107,25/03/2025,Hub USB-C 7-em-1,Acessórios,1,35.5,Sofia Pereira,Porto,Rita Neves,Sem observações
+1015,02/01/2025,Rato Sem Fios,,2,24.9,João Santos,Lisboa,Rita Neves,Desconto aplicado
+1093,03/04/2025,Rato Sem Fios,Acessórios,6,24.9,João Santos,Coimbra,Rita Neves,Cliente habitual
+1180,06/01/2025,Auscultadores Noise Cancelling,,4,159.0,Joana Teixeira,Viseu,Carlos Mendes,Cliente habitual
+1103,24/05/2025,Secretária Elevatória,Mobiliário,7,390.0,,Faro,Sérgio Monteiro,
