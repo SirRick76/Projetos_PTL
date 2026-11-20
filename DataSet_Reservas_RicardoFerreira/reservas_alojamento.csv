@@ -1,0 +1,156 @@
+﻿ID_Reserva,Hotel,Cidade,Pais,Data_Entrada,Data_Saida,Tipo_Quarto,Numero_Hospedes,Numero_Noites,Preco_Por_Noite,Desconto_Percentagem,Canal_Reserva,Estado_Reserva,Avaliacao_Cliente,Observacoes
+R0001,Casa do Rio,Paris,França,29/05/2025,06/06/2025,Duplo,2.0,8,134.89,5,Telefone,Cancelada,,Sem observações
+R0002,Casa do Rio,Braga,Portugal,18/09/2024,25/09/2024,Individual,2.0,7,126.04,5,App,Pendente,,Pedido de cama extra
+R0003,Casa do Rio,Nice,França,01/09/2025,05/09/2025,Individual,3.0,4,135.53,0,Booking,Confirmada,,Vista para o jardim
+R0004,Hotel Atlântico,Nice,França,20/02/2024,04/03/2024,Duplo,4.0,13,143.41,5,Website,Confirmada,,Chegada tardia
+R0005,Praia Dourada,Madrid,Espanha,25/03/2025,02/04/2025,Suite,2.0,8,203.98,0,Agência,Confirmada,,Pedido de cama extra
+R0006,Casa do Rio,Florença,Itália,01/03/2024,12/03/2024,Individual,2.0,11,115.53,20,Telefone,Confirmada,,Pedido de cama extra
+R0007,Monte Verde Hotel,Munique,Alemanha,30/01/2025,06/02/2025,Familiar,1.0,7,183.88,0,Website,Confirmada,,Pequeno-almoço incluído
+R0008,Casa do Rio,Milão,Itália,02/04/2024,13/04/2024,Duplo,2.0,11,108.12,0,Agência,Confirmada,,Sem observações
+R0009,Praia Dourada,,Portugal,25/09/2025,02/10/2025,Duplo,4.0,7,48.38,20,Booking,Cancelada,,Chegada tardia
+R0010,Praia Dourada,Roma,Itália,22/04/2024,02/05/2024,Suite,2.0,10,94.58,0,Agência,Concluída,,Sem observações
+R0011,Solar das Flores,Roma,Itália,22/05/2025,27/05/2025,Familiar,3.0,5,147.44,0,Agência,Concluída,3.0,Vista para o jardim
+R0012,Solar das Flores,Berlim,Alemanha,03/10/2025,09/10/2025,Suite,2.0,6,181.23,20,Website,Confirmada,,
+R0013,Praia Dourada,Lisboa,Portugal,06/08/2024,19/08/2024,Familiar,3.0,13,139.34,0,Website,Confirmada,,Vista para o jardim
+R0014,Praia Dourada,Milão,Itália,03/01/2025,04/01/2025,,4.0,1,116.51,15,Website,Confirmada,,Pequeno-almoço incluído
+R0015,Solar das Flores,Munique,Alemanha,23/06/2024,05/07/2024,Duplo,3.0,12,161.61,20,Agência,Cancelada,,Sem observações
+R0016,Casa do Rio,Sevilha,Espanha,25/11/2025,03/12/2025,Individual,2.0,8,141.54,5,Booking,Concluída,,Vista para o jardim
+R0017,Praia Dourada,Barcelona,Espanha,31/07/2024,04/08/2024,Familiar,1.0,4,196.93,5,Booking,Cancelada,,Chegada tardia
+R0018,Hotel Atlântico,Málaga,Espanha,23/03/2025,28/03/2025,Duplo,3.0,5,189.4,0,,Confirmada,,Vista para o jardim
+R0019,Casa do Rio,Madrid,Espanha,11/03/2024,16/03/2024,Suite,2.0,5,200.73,10,App,Concluída,,Sem observações
+R0020,Praia Dourada,Lyon,França,25/02/2025,09/03/2025,Duplo,2.0,12,232.01,10,Website,Confirmada,,Pequeno-almoço incluído
+R0021,Monte Verde Hotel,Florença,Itália,20/06/2024,21/06/2024,Individual,5.0,1,148.63,20,Website,Concluída,1.7,Pedido de cama extra
+R0022,Monte Verde Hotel,Nice,França,14/12/2024,19/12/2024,Familiar,2.0,5,,15,Agência,Cancelada,,Pequeno-almoço incluído
+R0023,Hotel Atlântico,Nice,França,02/01/2024,12/01/2024,Familiar,4.0,10,59.25,20,App,Confirmada,,Chegada tardia
+R0024,Casa do Rio,Florença,Itália,23/01/2024,02/02/2024,Familiar,5.0,10,169.17,0,Agência,Concluída,,Vista para o jardim
+R0025,Solar das Flores,Hamburgo,Alemanha,16/01/2025,20/01/2025,Suite,3.0,4,126.8,0,Website,Confirmada,,Pequeno-almoço incluído
+R0026,  Hotel Atlântico ,Hamburgo,Alemanha,10/02/2025,15/02/2025,Familiar,2.0,5,164.0,5,Booking,Confirmada,,Pequeno-almoço incluído
+R0027,Casa do Rio,Paris,França,04/04/2025,15/04/2025,Individual,3.0,11,75.02,0,Agência,Confirmada,,Vista para o jardim
+R0028,Monte Verde Hotel,Hamburgo,Alemanha,04/12/2024,13/12/2024,Familiar,2.0,9,69.95,0,Telefone,Confirmada,,Pedido de cama extra
+R0029,Monte Verde Hotel,Hamburgo,Alemanha,03/03/2025,13/03/2025,Familiar,2.0,10,123.59,15,Telefone,Concluída,3.5,Sem observações
+R0030,Praia Dourada,Paris,França,02/08/2024,13/08/2024,Familiar,2.0,11,78.42,20,Booking,Concluída,4.9,Sem observações
+R0031,Praia Dourada,Munique,Alemanha,07/03/2024,11/03/2024,Duplo,1.0,4,73.32,0,Agência,Confirmada,,Pedido de cama extra
+R0032,Praia Dourada,Milão,Itália,30/09/2024,02/10/2024,Duplo,2.0,2,209.7,0,App,Cancelada,,Sem observações
+R0033,Praia Dourada,Hamburgo,Alemanha,21/10/2024,02/11/2024,Familiar,3.0,12,162.42,0,Agência,Confirmada,,Chegada tardia
+R0034,Hotel Atlântico,Berlim,Alemanha,15/12/2024,26/12/2024,Duplo,3.0,11,123.95,0,Telefone,Concluída,3.9,
+R0035,Hotel Atlântico,Nice,França,15/09/2025,22/09/2025,Suite,2.0,7,107.15,15,Telefone,Confirmada,,Pequeno-almoço incluído
+R0036,Hotel Atlântico,Paris,França,14/04/2024,15/04/2024,Suite,3.0,1,140.38,10,App,Concluída,,Pequeno-almoço incluído
+R0037,Praia Dourada,Málaga,Espanha,05/05/2024,19/05/2024,Familiar,2.0,14,238.18,5,Agência,Cancelada,,Sem observações
+R0038,Hotel Atlântico,,Itália,15/02/2024,20/02/2024,Individual,2.0,5,219.26,0,Telefone,Cancelada,,Pedido de cama extra
+R0039,Casa do Rio,Braga,Portugal,28/09/2024,07/10/2024,Individual,2.0,9,75.61,15,Telefone,Cancelada,,Vista para o jardim
+R0040,Hotel Atlântico,Berlim,Alemanha,01/04/2024,14/04/2024,Individual,4.0,13,193.49,0,App,Concluída,4.4,Vista para o jardim
+R0041,Hotel Atlântico,Paris,França,02/05/2024,10/05/2024,Familiar,1.0,8,170.84,0,Booking,Confirmada,,Pedido de cama extra
+R0042,Hotel Atlântico,Munique,Alemanha,29/06/2024,04/07/2024,duplo,2.0,5,159.86,5,Telefone,Confirmada,,Chegada tardia
+R0043,Praia Dourada,Nice,França,01/12/2025,03/12/2025,Suite,2.0,2,189.81,5,Telefone,Concluída,,Chegada tardia
+R0044,Casa do Rio,Lyon,França,08/01/2024,14/01/2024,Individual,3.0,6,153.91,0,Agência,Concluída,4.4,Pedido de cama extra
+R0045,Monte Verde Hotel,Hamburgo,Alemanha,10/08/2025,14/08/2025,Individual,,4,120.59,5,Website,Confirmada,,Pequeno-almoço incluído
+R0046,Monte Verde Hotel,Hamburgo,Alemanha,03/11/2024,14/11/2024,Individual,5.0,11,212.09,0,App,Concluída,1.4,Vista para o jardim
+R0047,Casa do Rio,Madrid,Espanha,10/08/2024,22/08/2024,Familiar,2.0,12,138.71,10,Agência,Cancelada,,Pedido de cama extra
+R0048,Hotel Atlântico,Barcelona,Espanha,08/03/2024,20/03/2024,Suite,2.0,12,112.59,0,Website,Cancelada,,Pequeno-almoço incluído
+R0049,Casa do Rio,Nice,França,13/01/2024,19/01/2024,Individual,1.0,6,184.8,15,Website,Pendente,,Chegada tardia
+R0050,Casa do Rio,Porto,Portugal,24/04/2024,28/04/2024,Familiar,3.0,4,130.56,15,App,Concluída,,Pequeno-almoço incluído
+R0051,Praia Dourada,Lyon,França,09/01/2025,19/01/2025,Individual,1.0,10,116.84,0,Agência,Confirmada,,Vista para o jardim
+R0052,Monte Verde Hotel,Braga,Portugal,15/02/2024,17/02/2024,Suite,4.0,2,114.99,5,App,Concluída,,Chegada tardia
+R0053,Monte Verde Hotel,Sevilha,,22/09/2025,04/10/2025,Individual,2.0,12,93.39,20,App,Pendente,,Sem observações
+R0054,Praia Dourada,Florença,Itália,18/12/2024,25/12/2024,Duplo,2.0,7,221.97,0,Telefone,Cancelada,,Pequeno-almoço incluído
+R0055,Monte Verde Hotel,Nice,França,25/11/2024,29/11/2024,Individual,2.0,4,170.29,0,Website,Concluída,,Pequeno-almoço incluído
+R0056,Hotel Atlântico,Lyon,França,24/11/2025,25/11/2025,Duplo,1.0,1,228.48,15,Website,Concluída,2.6,Chegada tardia
+R0057,Hotel Atlântico,Málaga,Espanha,10/07/2024,16/07/2024,Individual,3.0,6,70.62,0,Booking,Cancelada,,Chegada tardia
+R0058,Casa do Rio,Milão,Itália,25/05/2024,07/06/2024,Duplo,2.0,13,229.85,15,Booking,Confirmada,,Pequeno-almoço incluído
+R0059,Monte Verde Hotel,Florença,Itália,07/01/2025,14/01/2025,Suite,1.0,7,231.34,15,Booking,Confirmada,,Pedido de cama extra
+R0060,Solar das Flores,Lyon,França,13/11/2025,19/11/2025,Familiar,4.0,6,159.64,0,Agência,Concluída,2.0,Pedido de cama extra
+R0061,Praia Dourada,Florença,Itália,01/01/2025,09/01/2025,Individual,2.0,8,182.99,5,Agência,Cancelada,,Vista para o jardim
+R0062,Praia Dourada,Barcelona,Espanha,,19/09/2024,Individual,1.0,14,225.67,0,App,Cancelada,,Pedido de cama extra
+R0063,Praia Dourada,Barcelona,Espanha,20/12/2024,29/12/2024,Duplo,2.0,9,73.04,0,App,Concluída,,Vista para o jardim
+R0064,Monte Verde Hotel,Paris,França,15/01/2025,24/01/2025,Individual,3.0,9,108.2,0,App,Cancelada,,Chegada tardia
+R0065,Monte Verde Hotel,Roma,Itália,21/06/2024,28/06/2024,Familiar,2.0,7,121.49,10,Agência,Confirmada,,Pequeno-almoço incluído
+R0066,Monte Verde Hotel,Aveiro,Portugal,23/08/2024,05/09/2024,Individual,2.0,13,202.51,0,Booking,Cancelada,,Vista para o jardim
+R0067,Hotel Atlântico,Berlim,Alemanha,03/08/2025,08/08/2025,Familiar,1.0,5,201.54,20,Booking,Concluída,,Chegada tardia
+R0068,Solar das Flores,Barcelona,Espanha,21/03/2025,03/04/2025,Individual,2.0,13,161.93,0,Website,Confirmada,,Pequeno-almoço incluído
+R0069,Monte Verde Hotel,Lisboa,Portugal,12/07/2025,23/07/2025,Duplo,1.0,11,190.24,5,website,Cancelada,,Chegada tardia
+R0070,Casa do Rio,Nice,França,23/11/2024,25/11/2024,Familiar,2.0,2,124.35,5,Telefone,Confirmada,,Chegada tardia
+R0071,Solar das Flores,Munique,Alemanha,30/09/2025,02/10/2025,Suite,2.0,2,148.32,20,Agência,Confirmada,,Pequeno-almoço incluído
+R0072,Casa do Rio,Sevilha,Espanha,19/06/2025,02/07/2025,Individual,2.0,13,221.8,15,Booking,Concluída,2.9,Sem observações
+R0073,Praia Dourada,Madrid,Espanha,12/03/2025,16/03/2025,Duplo,4.0,4,181.08,20,Telefone,Confirmada,,Pedido de cama extra
+R0074,Hotel Atlântico,Aveiro,Portugal,29/08/2025,31/08/2025,Individual,2.0,2,230.54,0,App,Concluída,1.3,Pedido de cama extra
+R0075,Praia Dourada,Berlim,Alemanha,14/09/2025,26/09/2025,Suite,2.0,12,207.32,20,Website,Confirmada,,Pequeno-almoço incluído
+R0076,Praia Dourada,Sevilha,Espanha,11/06/2024,22/06/2024,Duplo,2.0,11,81.56,0,Booking,Confirmada,,Chegada tardia
+R0077,Solar das Flores,Roma,Itália,02/03/2025,06/03/2025,Suite,2.0,4,237.06,0,Booking,Confirmada,,Pedido de cama extra
+R0078,Casa do Rio,Hamburgo,Alemanha,02/09/2025,15/09/2025,Duplo,2.0,13,224.26,0,App,Pendente,,
+R0079,Hotel Atlântico,Berlim,Alemanha,20/02/2024,24/02/2024,Familiar,4.0,4,229.79,15,Telefone,Confirmada,,Pequeno-almoço incluído
+R0080,Solar das Flores,Madrid,Espanha,18/06/2024,30/06/2024,Duplo,2.0,12,,0,Booking,Confirmada,,Sem observações
+R0081,Solar das Flores,Barcelona,Espanha,19/02/2025,28/02/2025,Duplo,2.0,9,170.82,0,Booking,Concluída,1.3,Pedido de cama extra
+R0082,Praia Dourada,Florença,Itália,05/09/2025,16/09/2025,Individual,4.0,11,163.92,10,Website,Confirmada,,Sem observações
+R0083,Casa do Rio,Hamburgo,Alemanha,10/01/2024,21/01/2024,Individual,2.0,11,195.7,20,Booking,Confirmada,,Vista para o jardim
+R0084,Monte Verde Hotel,Munique,Alemanha,08/08/2025,16/08/2025,Individual,2.0,8,121.24,10,Agência,Cancelada,,Vista para o jardim
+R0085,Praia Dourada,Lisboa,Portugal,19/08/2025,26/08/2025,Suite,3.0,7,209.1,10,Telefone,Confirmada,,Pequeno-almoço incluído
+R0086,Casa do Rio,Faro,Portugal,07/11/2024,09/11/2024,Familiar,2.0,2,221.15,0,Booking,Confirmada,,Pequeno-almoço incluído
+R0087,Casa do Rio,Hamburgo,Alemanha,21/01/2024,23/01/2024,Suite,2.0,2,56.3,5,Agência,Confirmada,,Sem observações
+R0088,Casa do Rio,Milão,Itália,11/06/2025,13/06/2025,Duplo,2.0,2,166.84,15,Booking,Confirmada,,Pedido de cama extra
+R0089,Solar das Flores,Milão,Itália,17/01/2024,20/01/2024,,2.0,3,197.57,5,App,Confirmada,,Sem observações
+R0090,Monte Verde Hotel,Barcelona,Espanha,09/06/2024,23/06/2024,Familiar,2.0,14,100.41,20,App,Pendente,,Vista para o jardim
+R0091,Praia Dourada,Lisboa,Portugal,13/02/2025,27/02/2025,Familiar,2.0,14,228.33,5,App,Cancelada,,Chegada tardia
+R0092,Hotel Atlântico,Faro,Portugal,26/05/2024,28/05/2024,Individual,2.0,2,141.97,5,Website,Pendente,,Vista para o jardim
+R0093,Praia Dourada,Lyon,França,03/08/2025,13/08/2025,Suite,2.0,10,159.45,0,Website,Confirmada,,Pedido de cama extra
+R0094,Solar das Flores,Aveiro,portugal,17/08/2024,27/08/2024,Duplo,2.0,10,141.73,15,App,Concluída,1.2,Pedido de cama extra
+R0095,Solar das Flores,Munique,Alemanha,28/08/2025,31/08/2025,Suite,2.0,3,153.15,0,Telefone,Cancelada,,Pequeno-almoço incluído
+R0096,Solar das Flores,Braga,Portugal,19/06/2025,22/06/2025,Suite,3.0,3,178.87,10,Agência,Confirmada,,Chegada tardia
+R0097,Praia Dourada,Berlim,Alemanha,20/11/2025,24/11/2025,Familiar,2.0,4,116.81,15,,Concluída,,Vista para o jardim
+R0098,Solar das Flores,Madrid,Espanha,09/04/2025,19/04/2025,Suite,4.0,10,174.35,5,App,Confirmada,,Pequeno-almoço incluído
+R0099,Hotel Atlântico,Lisboa,Portugal,18/04/2025,26/04/2025,Familiar,1.0,8,149.69,20,App,Concluída,,Sem observações
+R0100,Monte Verde Hotel,Hamburgo,Alemanha,27/05/2025,04/06/2025,Familiar,4.0,8,110.98,20,Website,Confirmada,,Sem observações
+R0101,Solar das Flores,Málaga,Espanha,25/05/2025,27/05/2025,Individual,1.0,2,194.53,0,App,Concluída,2.8,Pequeno-almoço incluído
+R0102,Casa do Rio,Lisboa,Portugal,13/02/2024,25/02/2024,Individual,3.0,12,154.77,10,App,Concluída,1.1,Chegada tardia
+R0103,Casa do Rio,Berlim,Alemanha,23/09/2024,02/10/2024,Suite,3.0,9,130.74,0,Agência,Cancelada,,Sem observações
+R0104,Praia Dourada,Munique,Alemanha,16/03/2024,22/03/2024,Individual,3.0,6,128.41,0,Agência,Confirmada,,Vista para o jardim
+R0105,Monte Verde Hotel,Paris,França,05/10/2025,06/10/2025,Duplo,4.0,1,158.59,0,Agência,Cancelada,,Vista para o jardim
+R0106,Hotel Atlântico,Sevilha,Espanha,22/09/2024,29/09/2024,Individual,2.0,7,213.49,15,Telefone,Confirmada,,Sem observações
+R0107,Praia Dourada,Málaga,Espanha,01/11/2024,14/11/2024,Suite,2.0,13,194.82,10,App,Confirmada,,Pequeno-almoço incluído
+R0108,Solar das Flores,Roma,Itália,22/08/2025,03/09/2025,Duplo,5.0,12,97.17,0,Agência,Concluída,1.5,Pequeno-almoço incluído
+R0109,Casa do Rio,Nice,França,17/12/2024,31/12/2024,Individual,2.0,14,95.05,0,App,Pendente,,Pequeno-almoço incluído
+R0110,Casa do Rio,Lyon,França,19/05/2024,28/05/2024,Suite,4.0,9,92.73,10,App,,2.5,Sem observações
+R0111,Casa do Rio,Munique,Alemanha,26/02/2025,05/03/2025,Duplo,3.0,7,116.73,10,App,Cancelada,,Sem observações
+R0112,Solar das Flores,Berlim,Alemanha,07/07/2024,19/07/2024,Familiar,2.0,12,205.45,0,Website,Confirmada,,Chegada tardia
+R0113,Monte Verde Hotel,Sevilha,Espanha,27/08/2024,03/09/2024,Individual,2.0,7,,5,Website,Confirmada,,Vista para o jardim
+R0114,Hotel Atlântico,Barcelona,Espanha,19/04/2024,01/05/2024,Familiar,4.0,12,198.3,0,App,Pendente,,Pedido de cama extra
+R0115,Hotel Atlântico,Lisboa,Portugal,14/10/2025,18/10/2025,Duplo,3.0,4,56.81,15,Agência,Confirmada,,Vista para o jardim
+R0116,Casa do Rio,Roma,Itália,03/02/2024,12/02/2024,Individual,2.0,9,73.17,0,Telefone,Confirmada,,Sem observações
+R0117,Monte Verde Hotel,Florença,Itália,02/05/2024,16/05/2024,Duplo,2.0,14,129.2,15,Telefone,Cancelada,,Pequeno-almoço incluído
+R0118,Hotel Atlântico,Roma,Itália,16/09/2025,27/09/2025,Familiar,3.0,11,235.35,5,App,confirmada,,Sem observações
+R0119,Solar das Flores,Milão,Itália,19/02/2024,04/03/2024,Suite,4.0,14,111.76,10,Telefone,Pendente,,Sem observações
+R0120,Monte Verde Hotel,Roma,Itália,07/06/2025,12/06/2025,Familiar,2.0,5,191.17,20,App,Confirmada,,
+R0121,Monte Verde Hotel,Lyon,França,17/08/2024,18/08/2024,Individual,4.0,1,145.18,0,Booking,Confirmada,,Chegada tardia
+R0122,Hotel Atlântico,Lyon,França,04/02/2024,06/02/2024,Familiar,2.0,2,188.35,20,Website,Pendente,,Pedido de cama extra
+R0123,Monte Verde Hotel,Madrid,Espanha,23/05/2024,29/05/2024,Familiar,3.0,6,174.71,5,Agência,Concluída,,Pedido de cama extra
+R0124,Hotel Atlântico,Nice,França,19/04/2024,22/04/2024,Individual,4.0,3,168.6,0,Booking,Confirmada,,Chegada tardia
+R0125,Casa do Rio,Munique,Alemanha,14/01/2024,21/01/2024,Duplo,2.0,7,152.8,10,Website,Confirmada,,Pequeno-almoço incluído
+R0126,Hotel Atlântico,Lyon,França,22/12/2024,03/01/2025,Duplo,2.0,12,207.5,0,Booking,Confirmada,,Vista para o jardim
+R0127,Praia Dourada,Nice,França,20/06/2025,04/07/2025,Individual,2.0,14,86.23,0,Website,Cancelada,,Sem observações
+R0128,Solar das Flores,Porto,Portugal,13/08/2024,23/08/2024,Suite,2.0,10,85.65,0,App,Confirmada,,Vista para o jardim
+R0129,Hotel Atlântico,Roma,Itália,15/08/2025,23/08/2025,Duplo,2.0,8,155.15,0,Agência,Concluída,,Sem observações
+R0130,Casa do Rio,Lyon,França,01/03/2024,09/03/2024,Suite,2.0,8,143.28,0,App,Confirmada,,Chegada tardia
+R0131,Casa do Rio,Hamburgo,Alemanha,29/03/2024,09/04/2024,Duplo,4.0,11,107.32,0,Booking,Pendente,,Chegada tardia
+R0132,Casa do Rio,Roma,Itália,13/11/2024,15/11/2024,Familiar,2.0,2,118.66,0,,Confirmada,,Chegada tardia
+R0133,Casa do Rio,Porto,Portugal,02/11/2025,16/11/2025,Suite,1.0,14,162.41,0,App,Concluída,1.6,Vista para o jardim
+R0134,Casa do Rio,Madrid,Espanha,12/09/2024,22/09/2024,Duplo,1.0,10,121.96,5,Agência,Concluída,3.7,Vista para o jardim
+R0135,Monte Verde Hotel,Milão,Itália,25/06/2024,09/07/2024,Individual,4.0,14,208.28,10,App,Confirmada,,Vista para o jardim
+R0136,Solar das Flores,Hamburgo,Alemanha,04/02/2025,17/02/2025,Individual,2.0,13,126.59,0,App,Cancelada,,Pequeno-almoço incluído
+R0137,Monte Verde Hotel,Sevilha,Espanha,21/08/2025,23/08/2025,Familiar,2.0,2,148.65,10,Telefone,Confirmada,,Vista para o jardim
+R0138,Casa do Rio,Faro,Portugal,29/08/2025,01/09/2025,Familiar,1.0,3,236.1,10,Agência,Confirmada,,Sem observações
+R0139,Casa do Rio,Faro,Portugal,29/11/2024,07/12/2024,Familiar,2.0,8,201.24,10,Booking,Confirmada,,Chegada tardia
+R0140,Solar das Flores,Munique,Alemanha,17/06/2025,30/06/2025,Duplo,3.0,13,227.93,0,Website,Concluída,,Chegada tardia
+R0141,Monte Verde Hotel,Roma,Itália,12/03/2024,14/03/2024,Individual,4.0,2,236.97,5,Telefone,Cancelada,,Sem observações
+R0142,Solar das Flores,Braga,Portugal,20/06/2025,24/06/2025,Individual,2.0,4,234.94,0,App,Confirmada,,Pequeno-almoço incluído
+R0143,Monte Verde Hotel,Paris,França,11/08/2025,13/08/2025,Familiar,5.0,2,195.94,0,App,Cancelada,,Pedido de cama extra
+R0144,Monte Verde Hotel,Nice,França,29/08/2025,10/09/2025,Suite,2.0,12,69.91,0,Telefone,Concluída,3.0,Pequeno-almoço incluído
+R0145,Praia Dourada,Roma,Itália,11/10/2025,14/10/2025,Duplo,2.0,3,80.29,15,Booking,Confirmada,,Sem observações
+R0146,Casa do Rio,Lyon,França,07/11/2024,08/11/2024,Individual,2.0,1,109.77,20,Telefone,Confirmada,,Pedido de cama extra
+R0147,Solar das Flores,Sevilha,Espanha,28/08/2025,07/09/2025,Individual,4.0,10,109.41,0,Website,Concluída,,Pedido de cama extra
+R0148,Casa do Rio,Braga,Portugal,06/05/2024,19/05/2024,Suite,3.0,13,51.78,0,Agência,Cancelada,,Pequeno-almoço incluído
+R0149,Praia Dourada,Florença,Itália,02/04/2025,04/04/2025,Suite,2.0,2,217.34,10,Agência,Cancelada,,Pequeno-almoço incluído
+R0150,Praia Dourada,Braga,Portugal,04/08/2025,14/08/2025,Suite,4.0,10,132.19,15,Website,Confirmada,,Vista para o jardim
+R0005,Praia Dourada,Madrid,Espanha,25/03/2025,02/04/2025,Suite,2.0,8,203.98,0,Agência,Confirmada,,Pedido de cama extra
+R0030,Praia Dourada,Paris,França,02/08/2024,13/08/2024,Familiar,2.0,11,78.42,20,Booking,Concluída,4.9,Sem observações
+R0056,Hotel Atlântico,Lyon,França,24/11/2025,25/11/2025,Duplo,1.0,1,228.48,15,Website,Concluída,2.6,Chegada tardia
+R0090,Monte Verde Hotel,Barcelona,Espanha,09/06/2024,23/06/2024,Familiar,2.0,14,100.41,20,App,Pendente,,Vista para o jardim
+R0122,Hotel Atlântico,Lyon,França,04/02/2024,06/02/2024,Familiar,2.0,2,188.35,20,Website,Pendente,,Pedido de cama extra
